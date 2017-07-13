@@ -1,0 +1,24 @@
+{
+  "name": "circuit-construction-kit-dc-virtual-lab",
+  "version": "1.0.0-dev.77",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/circuit-construction-kit-black-box.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.0"
+  },
+  "phet": {
+    "requirejsNamespace": "CIRCUIT_CONSTRUCTION_KIT_DC_VIRTUAL_LAB",
+    "phetLibs": [
+      "circuit-construction-kit-common",
+      "circuit-construction-kit-dc",
+      "twixt"
+    ],
+    "preload": [
+      "../sherpa/lib/Tween-r12.js"
+    ]
+  },
+  "false": {}
+}
