@@ -52,7 +52,9 @@ define( function( require ) {
 
       // Launch the simulation once everything is ready
       var sim = new Sim( circuitConstructionKitDcVirtualLabTitleString, [
-        new LabScreen( tandem.createTandem( 'labScreen' ) )
+        new LabScreen( tandem.createTandem( 'labScreen' ), {
+          showNoncontactAmmeters: false
+        } )
       ], simOptions );
       sim.start();
     } );
