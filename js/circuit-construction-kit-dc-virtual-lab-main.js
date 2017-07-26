@@ -10,11 +10,11 @@ define( function( require ) {
 
   // modules
   require( 'SCENERY/nodes/Image' ); // Image is required for making toDataURLNodeSynchronous work in the built version
+  var Input = require( 'SCENERY/input/Input' );
   var LabScreen = require( 'CIRCUIT_CONSTRUCTION_KIT_DC/lab/LabScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
   var Tandem = require( 'TANDEM/Tandem' );
-  var Input = require( 'SCENERY/input/Input' );
 
   // constants
   var tandem = Tandem.createRootTandem();
