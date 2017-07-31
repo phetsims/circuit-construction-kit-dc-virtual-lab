@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.0-dev.5 Mon Jul 31 2017 13:23:18 GMT-0600 (MDT)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.0-dev.6 Mon Jul 31 2017 14:20:30 GMT-0600 (MDT)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "master"
@@ -21,11 +21,11 @@
     "branch": "master"
   },
   "circuit-construction-kit-dc": {
-    "sha": "72beabcdb1ed336d97e7518f610f95d84faf959f",
+    "sha": "a3950cd4a8f8355b6d55778ace483f291786cde6",
     "branch": "master"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "fcac9005f8a2367b897c59437d691d5bd5396281",
+    "sha": "559a8113ef113fd1fdf2d78d0d6e56ab0af40092",
     "branch": "master"
   },
   "dot": {
@@ -65,7 +65,7 @@
     "branch": "master"
   },
   "sun": {
-    "sha": "f76a05df156a9cea531cd5437848eb708fc18d3d",
+    "sha": "a56ba571c185b151226a0d13c47aade27f4fb8a6",
     "branch": "master"
   },
   "tandem": {
