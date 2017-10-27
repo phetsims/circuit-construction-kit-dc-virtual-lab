@@ -1,10 +1,10 @@
 {
   "name": "circuit-construction-kit-dc-virtual-lab",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.3",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phetsims/circuit-construction-kit-black-box.git"
+    "url": "https://github.com/phetsims/circuit-construction-kit-dc-virtual-lab.git"
   },
   "devDependencies": {
     "grunt": "~1.0.0"
