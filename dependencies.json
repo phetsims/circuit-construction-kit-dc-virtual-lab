@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.3 Thu Aug 09 2018 20:25:53 GMT-0600 (MDT)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.3 Thu Aug 09 2018 23:27:21 GMT-0600 (MDT)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "HEAD"
@@ -13,8 +13,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "1112c18e787994a820621bfcbefee9175874c412",
-    "branch": "HEAD"
+    "sha": "a0bd7c45b994197fb3749b2dd70083ca40148dac",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.0"
   },
   "circuit-construction-kit-common": {
     "sha": "edb560abfea4ffbf8bf0ac2d65bf7aa7cb7a3bd1",
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "8a89c49adc3c37d97383b820e51558715a3ebbba",
+    "sha": "aef677bac96ce79088d06ff16a6a64192fa85092",
     "branch": "1.0"
   },
   "dot": {
@@ -45,8 +45,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "5b0c8dd60e559bfc0062bf159f42df86fe49874d",
-    "branch": "HEAD"
+    "sha": "8fd23a8b1964368d8c71e08528b04229db822643",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.0"
   },
   "query-string-machine": {
     "sha": "c74e454ec68033a9546b8181d4d962eb8ceef81f",
@@ -54,7 +54,7 @@
   },
   "scenery": {
     "sha": "d855253994a3812c30495497e570d9ccbc60130f",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.0"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "a90363b5f2629cefc880f205cc738a4277f3dc93",
