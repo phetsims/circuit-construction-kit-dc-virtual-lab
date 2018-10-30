@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.4 Tue Oct 30 2018 14:09:06 GMT-0600 (MDT)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.0.5-rc.1 Tue Oct 30 2018 16:00:00 GMT-0600 (MDT)",
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
     "branch": "HEAD"
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "767dd5d53c2fc6c849f9a82895328fa4bd365538",
+    "sha": "8d17b503a7295c5c02fae15610694a240ccad8ae",
     "branch": "1.0"
   },
   "dot": {
@@ -34,7 +34,7 @@
   },
   "joist": {
     "sha": "1efc86a76d95f42e4277138e0f0aea187caead8d",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.0"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "9689a3de27640c67fa66b8b343643f47da99d9d9",
