@@ -14,7 +14,8 @@
     "phetLibs": [
       "circuit-construction-kit-common",
       "circuit-construction-kit-dc",
-      "twixt"
+      "twixt",
+      "griddle"
     ],
     "preload": [
       "../sherpa/lib/Tween-r12.js"
