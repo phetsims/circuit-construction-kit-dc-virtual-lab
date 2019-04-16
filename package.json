@@ -17,9 +17,6 @@
       "twixt",
       "griddle"
     ],
-    "preload": [
-      "../sherpa/lib/Tween-r12.js"
-    ],
     "runnable": true,
     "supportedBrands": [
       "phet",
