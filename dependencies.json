@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.1.1 Mon Aug 19 2019 13:08:25 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.1.2-rc.1 Mon Aug 19 2019 16:00:54 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "d8a2e8992420327ff72a6fc4bb93ec76549ded0e",
     "branch": "HEAD"
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "b31461b80196d3dd22d745cc26c3e9ffb6f1ae6e",
+    "sha": "17e66425dae06a5c8228483f43fa829c6c3cbf5b",
     "branch": "1.1"
   },
   "dot": {
@@ -38,7 +38,7 @@
   },
   "joist": {
     "sha": "3cbceb811d4559dddbdaf19d869a1866fde273bb",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.1"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "38d4076754ae8dd00024a6973f8cf9d622dfcf5c",
@@ -70,11 +70,11 @@
   },
   "scenery": {
     "sha": "959efad9611976e2ed9fa759912c20edabedc374",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.1"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "57b9fb23d52eeecce5cb1255db96e36dd35399cb",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.1"
+    "branch": "HEAD"
   },
   "sherpa": {
     "sha": "4877464e8013ff1459091c854a8c2234c3d0e7d6",
