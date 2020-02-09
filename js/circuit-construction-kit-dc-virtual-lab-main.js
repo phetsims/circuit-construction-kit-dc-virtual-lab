@@ -20,8 +20,7 @@ define( require => {
   const tandem = Tandem.ROOT;
 
   // strings
-  const circuitConstructionKitDcVirtualLabTitleString =
-    require( 'string!CIRCUIT_CONSTRUCTION_KIT_DC_VIRTUAL_LAB/circuit-construction-kit-dc-virtual-lab.title' );
+  const circuitConstructionKitDcVirtualLabTitleString = require( 'string!CIRCUIT_CONSTRUCTION_KIT_DC_VIRTUAL_LAB/circuit-construction-kit-dc-virtual-lab.title' );
 
   const simOptions = {
     credits: {
