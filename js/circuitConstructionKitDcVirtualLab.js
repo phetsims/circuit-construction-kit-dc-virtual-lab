@@ -11,5 +11,5 @@ define( require => {
   // modules
   const Namespace = require( 'PHET_CORE/Namespace' );
 
-  return new Namespace( 'circuitConstructionKitDc' );
+  return new Namespace( 'circuitConstructionKitDcVirtualLab' );
 } );
