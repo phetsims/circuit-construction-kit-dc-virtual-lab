@@ -12,7 +12,7 @@ import SimLauncher from '../../joist/js/SimLauncher.js';
 import KeyboardUtils from '../../scenery/js/accessibility/KeyboardUtils.js';
 import '../../scenery/js/nodes/Image.js'; // Image is required for making toDataURLNodeSynchronous work in the built version
 import Tandem from '../../tandem/js/Tandem.js';
-import circuitConstructionKitDcVirtualLabStrings from './circuit-construction-kit-dc-virtual-lab-strings.js';
+import circuitConstructionKitDcVirtualLabStrings from './circuitConstructionKitDcVirtualLabStrings.js';
 
 // constants
 const tandem = Tandem.ROOT;
