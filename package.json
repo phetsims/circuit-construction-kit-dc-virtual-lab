@@ -15,7 +15,8 @@
       "circuit-construction-kit-common",
       "circuit-construction-kit-dc",
       "twixt",
-      "griddle"
+      "griddle",
+      "bamboo"
     ],
     "runnable": true,
     "supportedBrands": [
