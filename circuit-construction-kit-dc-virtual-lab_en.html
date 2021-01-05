@@ -22,7 +22,7 @@
   window.phet.chipper.packageObject =
     {
       "name": "circuit-construction-kit-dc-virtual-lab",
-      "version": "1.2.0-dev.0",
+      "version": "1.2.0-dev.1",
       "license": "GPL-3.0",
       "repository": {
         "type": "git",
@@ -37,7 +37,8 @@
           "circuit-construction-kit-common",
           "circuit-construction-kit-dc",
           "twixt",
-          "griddle"
+          "griddle",
+          "bamboo"
         ],
         "runnable": true,
         "supportedBrands": [
@@ -54,6 +55,10 @@
     };
   window.phet.chipper.stringRepos =
     [
+      {
+        "repo": "bamboo",
+        "requirejsNamespace": "BAMBOO"
+      },
       {
         "repo": "circuit-construction-kit-common",
         "requirejsNamespace": "CIRCUIT_CONSTRUCTION_KIT_COMMON"
