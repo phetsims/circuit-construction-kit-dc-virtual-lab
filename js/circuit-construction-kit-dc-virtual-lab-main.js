@@ -10,7 +10,8 @@ import LabScreen from '../../circuit-construction-kit-dc/js/lab/LabScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import KeyboardUtils from '../../scenery/js/accessibility/KeyboardUtils.js';
-import '../../scenery/js/nodes/Image.js'; // Image is required for making toDataURLNodeSynchronous work in the built version
+import '../../scenery/js/nodes/Image.js';
+import soundManager from '../../tambo/js/soundManager.js'; // Image is required for making toDataURLNodeSynchronous work in the built version
 import Tandem from '../../tandem/js/Tandem.js';
 import circuitConstructionKitDcVirtualLabStrings from './circuitConstructionKitDcVirtualLabStrings.js';
 
@@ -52,5 +53,8 @@ if ( !window.circuitConstructionKitTestSuite ) {
       } )
     ], simOptions );
     sim.start();
+
+    // Disable sounds for joist/home screen/navigation bar/carousel, but leave sound for the dog bark
+    soundManager.setOutputLevelForCategory( 'user-interface', 0 );
   } );
 }
