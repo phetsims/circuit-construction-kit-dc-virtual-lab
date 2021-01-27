@@ -6,6 +6,7 @@
  * @author Sam Reid (PhET Interactive Simulations)
  */
 
+import CCKCConstants from '../../circuit-construction-kit-common/js/CCKCConstants.js';
 import LabScreen from '../../circuit-construction-kit-dc/js/lab/LabScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
@@ -19,6 +20,7 @@ import circuitConstructionKitDcVirtualLabStrings from './circuitConstructionKitD
 const tandem = Tandem.ROOT;
 
 const circuitConstructionKitDcVirtualLabTitleString = circuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].title;
+CCKCConstants.CAROUSEL_SCALE = CCKCConstants.DC_CAROUSEL_SCALE;
 
 const simOptions = {
   credits: {
