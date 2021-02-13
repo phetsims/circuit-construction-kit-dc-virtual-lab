@@ -7,6 +7,7 @@
  */
 
 import CCKCConstants from '../../circuit-construction-kit-common/js/CCKCConstants.js';
+import CCKCOptionsDialogContent from '../../circuit-construction-kit-common/js/view/CCKCOptionsDialogContent.js';
 import LabScreen from '../../circuit-construction-kit-dc/js/lab/LabScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
@@ -22,6 +23,7 @@ const circuitConstructionKitDcVirtualLabTitleString = circuitConstructionKitDcVi
 CCKCConstants.CAROUSEL_SCALE = CCKCConstants.DC_CAROUSEL_SCALE;
 
 const simOptions = {
+  createOptionsDialogContent: tandem => new CCKCOptionsDialogContent( tandem ),
   credits: {
     leadDesign: 'Amy Rouinfar',
     softwareDevelopment: 'Sam Reid, Denzell Barnett',
