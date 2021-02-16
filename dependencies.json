@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.2.0-rc.1 Tue Feb 16 2021 14:16:26 GMT-0700 (Mountain Standard Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.2.0-rc.1 Tue Feb 16 2021 15:35:27 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "3df8c5ff9a465b031f84195a90bbb7e1be10a14d",
     "branch": "HEAD"
@@ -22,14 +22,14 @@
   },
   "circuit-construction-kit-common": {
     "sha": "7c2ec2ff989a013cb707a423bbd75d8fe8b3dca1",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.2"
+    "branch": "HEAD"
   },
   "circuit-construction-kit-dc": {
     "sha": "b1b1609c8cdb99522a9a14bceaffd77d2c47f605",
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "138425f0710cea3185dbc986b0295e5e6d6ca4de",
+    "sha": "c0987ba0b4aa99a965945c4ed0c5dea8137ed089",
     "branch": "1.2"
   },
   "dot": {
@@ -41,8 +41,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "7e40dbf2f44571d8899587458a0d07213b13cd75",
-    "branch": "HEAD"
+    "sha": "6744bac3ab4ca76b7bafb907815879d1c7697c51",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.2"
   },
   "kite": {
     "sha": "89fbcaf346c5677d009e9c0cb61918ade2f86ccb",
