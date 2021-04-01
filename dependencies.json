@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.2.2-rc.1 Wed Mar 31 2021 20:42:39 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.2.2-rc.2 Thu Apr 01 2021 08:45:23 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "3df8c5ff9a465b031f84195a90bbb7e1be10a14d",
     "branch": "HEAD"
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "da66c98d53ac57053f8d9ef60472f524c17f1322",
+    "sha": "28a22b37d329158867480f679d808c6977fdcf6a",
     "branch": "1.2"
   },
   "dot": {
