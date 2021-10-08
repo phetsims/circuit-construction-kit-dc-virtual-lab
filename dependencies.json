@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-common": {
-    "sha": "d89468756134604918340624235ca49822a5607b",
+    "sha": "3abbc6554b6d321658105676889fb24257ca8657",
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc": {
@@ -41,7 +41,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "db522780c4042d3fcc4b9ecdc6e312a9fd52b5c9",
+    "sha": "527077569511b8fc62edd4835f2247945c16d275",
     "branch": "HEAD"
   },
   "kite": {
@@ -97,7 +97,7 @@
     "branch": "HEAD"
   },
   "tambo": {
-    "sha": "687a57db5f03effa8d4c1f2108ef69e074817d4a",
+    "sha": "751977ad89d6354825965fb41f0a66111044fb5b",
     "branch": "HEAD"
   },
   "tandem": {
