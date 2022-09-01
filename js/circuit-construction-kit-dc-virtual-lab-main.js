@@ -7,7 +7,7 @@
  */
 
 import CCKCConstants from '../../circuit-construction-kit-common/js/CCKCConstants.js';
-import CCKCGeneralPreferencesContentNode from '../../circuit-construction-kit-common/js/view/CCKCGeneralPreferencesContentNode.js';
+import CCKCSimulationPreferencesContentNode from '../../circuit-construction-kit-common/js/view/CCKCSimulationPreferencesContentNode.js';
 import LabScreen from '../../circuit-construction-kit-dc/js/lab/LabScreen.js';
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim from '../../joist/js/Sim.js';
@@ -27,7 +27,7 @@ const simOptions = {
   preferencesModel: new PreferencesModel( {
     simulationOptions: {
       customPreferences: [ {
-        createContent: tandem => new CCKCGeneralPreferencesContentNode( tandem.createTandem( 'simPreferences' ) )
+        createContent: tandem => new CCKCSimulationPreferencesContentNode( tandem.createTandem( 'simPreferences' ) )
       } ]
     }
   } ),
