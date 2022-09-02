@@ -20,7 +20,7 @@ import circuitConstructionKitDcVirtualLabStrings from './circuitConstructionKitD
 // constants
 const tandem = Tandem.ROOT;
 
-const circuitConstructionKitDcVirtualLabTitleString = circuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].title;
+const circuitConstructionKitDcVirtualLabTitleStringProperty = circuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].titleStringProperty;
 CCKCConstants.CAROUSEL_SCALE = CCKCConstants.DC_CAROUSEL_SCALE;
 
 const simOptions = {
@@ -48,7 +48,7 @@ if ( !window.circuitConstructionKitTestSuite ) {
   simLauncher.launch( () => {
 
     // Launch the simulation once everything is ready
-    const sim = new Sim( circuitConstructionKitDcVirtualLabTitleString, [
+    const sim = new Sim( circuitConstructionKitDcVirtualLabTitleStringProperty, [
       new LabScreen( tandem.createTandem( 'labScreen' ), {
         showNoncontactAmmeters: false
       } )
