@@ -15,12 +15,12 @@ import simLauncher from '../../joist/js/simLauncher.js';
 import '../../scenery/js/nodes/Image.js';
 import soundManager from '../../tambo/js/soundManager.js'; // Image is required for making toDataURLNodeSynchronous work in the built version
 import Tandem from '../../tandem/js/Tandem.js';
-import circuitConstructionKitDcVirtualLabStrings from './circuitConstructionKitDcVirtualLabStrings.js';
+import CircuitConstructionKitDcVirtualLabStrings from './CircuitConstructionKitDcVirtualLabStrings.js';
 
 // constants
 const tandem = Tandem.ROOT;
 
-const circuitConstructionKitDcVirtualLabTitleStringProperty = circuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].titleStringProperty;
+const circuitConstructionKitDcVirtualLabTitleStringProperty = CircuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].titleStringProperty;
 CCKCConstants.CAROUSEL_SCALE = CCKCConstants.DC_CAROUSEL_SCALE;
 
 const simOptions = {
