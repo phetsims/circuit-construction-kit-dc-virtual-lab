@@ -6,7 +6,6 @@
  * @author Sam Reid (PhET Interactive Simulations)
  */
 
-import CCKCConstants from '../../circuit-construction-kit-common/js/CCKCConstants.js';
 import CCKCSimulationPreferencesContentNode from '../../circuit-construction-kit-common/js/view/CCKCSimulationPreferencesContentNode.js';
 import LabScreen from '../../circuit-construction-kit-dc/js/lab/LabScreen.js';
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
@@ -21,7 +20,6 @@ import CircuitConstructionKitDcVirtualLabStrings from './CircuitConstructionKitD
 const tandem = Tandem.ROOT;
 
 const circuitConstructionKitDcVirtualLabTitleStringProperty = CircuitConstructionKitDcVirtualLabStrings[ 'circuit-construction-kit-dc-virtual-lab' ].titleStringProperty;
-CCKCConstants.CAROUSEL_SCALE = CCKCConstants.DC_CAROUSEL_SCALE;
 
 simLauncher.launch( () => {
 
