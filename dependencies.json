@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "0446ac6faf4f7febdfd21680ee7b3dff39d6c269",
+    "sha": "dbbf76f83f145659cebb78b253a228bc5c0f5624",
     "branch": "1.2"
   },
   "dot": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "b3ff76e06fd08af20eb5f05d74b62f8de2080a59",
+    "sha": "309d9b115e6d7dceba0a668ac22b3ef64cfa2a4c",
     "branch": "HEAD"
   },
   "phetmarks": {
