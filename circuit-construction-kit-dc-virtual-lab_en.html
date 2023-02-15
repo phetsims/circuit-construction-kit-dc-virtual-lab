@@ -54,7 +54,10 @@
           "supportsDynamicLocale": true
         },
         "supportsOutputJS": true,
-        "published": true
+        "published": true,
+        "phet-io": {
+          "compareDesignedAPIChanges": true
+        }
       },
       "eslintConfig": {
         "extends": "../chipper/eslint/sim_eslintrc.js"
@@ -103,6 +106,7 @@
         "requirejsNamespace": "TWIXT"
       }
     ];
+  window.phet.chipper.allowLocaleSwitching = true;
 
   // Identify the brand (assume generated brand if not provided with query parameters)
   const brandMatch = location.search.match( /brand=([^&]+)/ );
