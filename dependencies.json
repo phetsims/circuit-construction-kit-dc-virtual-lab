@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-common": {
-    "sha": "3afdda5e8b75e6eac924c31dfc0787d6ad0a0ede",
+    "sha": "94dac8a8260822ee922fdd9454646d11ee16fc86",
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "91343eeed2d26d040685600365fc5be7a91fa51b",
+    "sha": "a6adb23d7ef246aafbde17f6da84cdf365e6f71c",
     "branch": "1.3"
   },
   "dot": {
