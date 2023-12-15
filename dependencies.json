@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "3ebe1514dd786fff2e52d2b11e383d837d6242b7",
+    "sha": "14b21725f03ab8130012a2247c8be38cc8bf0803",
     "branch": "1.3"
   },
   "dot": {
@@ -57,15 +57,15 @@
     "branch": "HEAD"
   },
   "phet-io": {
-    "sha": "197b6f3031a032fd8b608d1bf07aeaf3a47ac17b",
+    "sha": "471010080059f4aaa14ad990cf54a8ac6b4db358",
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "faaee22a28e510988004f013d5469172002717b3",
+    "sha": "652764120c99c9de27d3788c73d6569b3a4810aa",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "f36522c341f7e7c6aea695d4c60aa10641d2687f",
+    "sha": "51a3fd74c4f29760ae90370c6441e33d2053e4e4",
     "branch": "HEAD"
   },
   "phetcommon": {
