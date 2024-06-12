@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "axon": {
-    "sha": "35dd843819f04d0d95ac764719521f412a0d6a22",
+    "sha": "5ddd4bfa419d1b0459a82427f31f79a5a234cd32",
     "branch": "HEAD"
   },
   "bamboo": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "2877014a688f6d724ad4cd349b15a1985e864b83",
+    "sha": "5227eb6be086ab92ac09457daad6bae18f00135d",
     "branch": "1.3"
   },
   "dot": {
