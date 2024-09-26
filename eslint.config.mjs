@@ -1,7 +1,7 @@
 // Copyright 2024, University of Colorado Boulder
 
 /**
- * ESlint configuration for circuit-construction-kit-dc-virtual-lab.
+ * ESLint configuration for circuit-construction-kit-dc-virtual-lab.
  *
  * @author Sam Reid (PhET Interactive Simulations)
  * @author Michael Kauzmann (PhET Interactive Simulations)
