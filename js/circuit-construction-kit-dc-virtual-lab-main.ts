@@ -27,7 +27,11 @@ simLauncher.launch( () => {
   // Launch the simulation once everything is ready
   const sim = new Sim( circuitConstructionKitDcVirtualLabTitleStringProperty, [
     new LabScreen( tandem.createTandem( 'labScreen' ), {
-      showNoncontactAmmeters: false
+      showNoncontactAmmeters: false,
+      showAdvancedControls: false,
+
+      // Uncomment to show charts on DC Virtual Lab
+      showCharts: true
     } )
   ], {
     preferencesModel: new PreferencesModel( {
