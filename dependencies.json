@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-dataFluency1.1 Tue Nov 12 2024 10:08:07 GMT-0700 (Mountain Standard Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-dataFluency2.0 Tue Nov 12 2024 12:03:45 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "eceb789a9dbd8c79eecc8f356e815ff5454b52d4",
     "branch": "main"
@@ -29,8 +29,8 @@
     "branch": "data-fluency"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "2a8a0d0ddc74c0454b15e146ec54ac1a1af0458a",
-    "branch": "dataFluency1"
+    "sha": "79050574fa0c6d3c5cb8c21ba184420bb3f2d7e3",
+    "branch": "dataFluency2"
   },
   "dot": {
     "sha": "21c2285d26c7fed8ff62c8d09df08ce5d43b98f4",
@@ -61,7 +61,7 @@
     "branch": "main"
   },
   "phet-io-sim-specific": {
-    "sha": "3c2328e1afae428ef598098bb29cc0cd81fd2482",
+    "sha": "ee92b4838583263f64011be9b5f654110badf0bb",
     "branch": "main"
   },
   "phet-io-wrappers": {
