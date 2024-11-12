@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-dataFluency1.0 Tue Nov 12 2024 10:06:00 GMT-0700 (Mountain Standard Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-dataFluency1.1 Tue Nov 12 2024 10:08:07 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "eceb789a9dbd8c79eecc8f356e815ff5454b52d4",
     "branch": "main"
@@ -29,7 +29,7 @@
     "branch": "data-fluency"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "eae45d3d9b5cba2088ce2aaf2bbd90d64fba7e6c",
+    "sha": "2a8a0d0ddc74c0454b15e146ec54ac1a1af0458a",
     "branch": "dataFluency1"
   },
   "dot": {
