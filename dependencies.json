@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-rc.1 Tue Mar 18 2025 20:06:36 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.4.0-rc.2 Tue Mar 18 2025 20:09:25 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "f6d41b399ad32df2a00ab4b329981be0c574d77a",
     "branch": "HEAD"
@@ -22,14 +22,14 @@
   },
   "circuit-construction-kit-common": {
     "sha": "cc8b429fc3dae68817f4c2bd764f599932c43822",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.4"
+    "branch": "HEAD"
   },
   "circuit-construction-kit-dc": {
     "sha": "fe061c49c03eff0a89f6708d522825557d3c437f",
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "71790d6416d8b3cb68a4c1b0c0f73330a14a0aac",
+    "sha": "69f1e01df03ec628a8b254c4cd2a7b06c2aa1da1",
     "branch": "1.4"
   },
   "dot": {
@@ -62,7 +62,7 @@
   },
   "phet-io-sim-specific": {
     "sha": "41138ad77623fee0e2f74a910432c5063ff0ed31",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.4"
+    "branch": "HEAD"
   },
   "phet-io-wrappers": {
     "sha": "35200b5b33e955304d4d0933cecc3bf3cc55c8fe",
