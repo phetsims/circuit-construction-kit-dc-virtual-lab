@@ -1,4 +1,4 @@
-# Circuit Construction Kit: DC - Release Notes
+# Circuit Construction Kit: DC - Virtual Lab - Release Notes
 
 This simulation consists of the _Lab_ screen from the _Circuit Construction Kit: DC_ simulation and excludes non-contact ammeters.
 
