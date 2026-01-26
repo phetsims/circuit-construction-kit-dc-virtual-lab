@@ -37,6 +37,9 @@
       "compareDesignedAPIChanges": true,
       "wrappers": [
         "phet-io-sim-specific/repos/circuit-construction-kit-dc-virtual-lab/wrappers/codap"
+      ],
+      "publicWrappers": [
+        "codap"
       ]
     }
   }
