@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.5.0-rc.1 Fri Feb 27 2026 14:11:41 GMT-0700 (Mountain Standard Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.5.0-rc.1 Mon Mar 16 2026 12:41:25 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "4fa534de08d265643688965bf233cb73326c3cb7",
     "branch": "HEAD"
@@ -21,15 +21,15 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-common": {
-    "sha": "2283746746fdb05b3fe3041ed5bdb1d059e39b0d",
-    "branch": "HEAD"
+    "sha": "ce1ca28f9141642b24fe1eebbf595a66865f9378",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
   },
   "circuit-construction-kit-dc": {
-    "sha": "5146e7986a0308bf0cd814fa9bb108e5caec35a4",
-    "branch": "HEAD"
+    "sha": "5d79f1a46043166d484a5f21af3e70a448d59bd8",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "ff1220d65076288b26dab06b4b90bdb14116e6ed",
+    "sha": "83ebbe6f824fafc24b330f8a97cfffe962d2cdd4",
     "branch": "1.5"
   },
   "dot": {
@@ -61,8 +61,8 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "0ac2fdd2223ea9e97c2bed161450442f8b09acc2",
-    "branch": "HEAD"
+    "sha": "2270a94c1b90e233161bed4088d9207a9bac548c",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
   },
   "phet-io-wrappers": {
     "sha": "02882cd512270b24b3072ad2a4089c638c50305c",
@@ -81,8 +81,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "5481340b766b28f95d9bc3eb1c936f8dbbf0866a",
-    "branch": "HEAD"
+    "sha": "2bb52dd0af0ae24547396366cc0875c505a7a2a8",
+    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
   },
   "scenery-phet": {
     "sha": "c7ff170569f6b5a12a5c64f5660a7b8bf3ddd264",
