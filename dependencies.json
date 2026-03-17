@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "bff03ec3137289c3a9406e51152da2418cd60d98",
+    "sha": "cfcd07574c6ca4a79a74507ee2fe0b75f22342f7",
     "branch": "HEAD"
   },
   "chipper": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "65bb62647bf58916065d075f2d0839fe6212c5db",
+    "sha": "d952a921e82fcbc613771e37f0530ebab3f9de8c",
     "branch": "1.3"
   },
   "dot": {
