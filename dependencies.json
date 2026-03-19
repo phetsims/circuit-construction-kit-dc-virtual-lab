@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "b75e42df548bc5908aca5b4a7c7daae250c17f77",
+    "sha": "625f64d067b42b337b595dca40d3d310771347e3",
     "branch": "1.3"
   },
   "dot": {
@@ -41,7 +41,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "d43d15c15d2526275ace479bd5d23ab6b57e7557",
+    "sha": "ada485bf5e3794e619dac7cdbc7604847d062ce4",
     "branch": "HEAD"
   },
   "kite": {
