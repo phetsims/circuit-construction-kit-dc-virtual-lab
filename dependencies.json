@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "3160fef28623277eb11f45220da9ae82e0c57bf1",
+    "sha": "9d97050522a644a54bb2782dcf1819a8e14c3204",
     "branch": "HEAD"
   },
   "circuit-construction-kit-common": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "b7bd9bbf3a1f377265fe3a6a394f3b3956189a61",
+    "sha": "d53d7f4f6ad24baf8169a7a0db9be165678e93d6",
     "branch": "1.4"
   },
   "dot": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "077c333a069051005ef85fd26b545bc3731409bb",
+    "sha": "83c47bc0bac533d3ccb9ed3493948a888ff19d4f",
     "branch": "HEAD"
   },
   "phet-core": {
