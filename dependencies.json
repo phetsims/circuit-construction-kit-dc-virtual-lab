@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-dc-virtual-lab 1.5.0-rc.2 Fri Mar 20 2026 11:08:16 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# circuit-construction-kit-dc-virtual-lab 1.5.0-rc.3 Fri Mar 20 2026 11:11:15 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "4fa534de08d265643688965bf233cb73326c3cb7",
     "branch": "HEAD"
@@ -22,14 +22,14 @@
   },
   "circuit-construction-kit-common": {
     "sha": "a8baf63a3cb019b5732b659db52a8881876eb602",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
+    "branch": "HEAD"
   },
   "circuit-construction-kit-dc": {
     "sha": "5d79f1a46043166d484a5f21af3e70a448d59bd8",
     "branch": "HEAD"
   },
   "circuit-construction-kit-dc-virtual-lab": {
-    "sha": "05dfcad9e9352d0c4c491d2da2863f1627333592",
+    "sha": "3e25ce0f3b67c24a6ff47f9d4b3994ea415c74a6",
     "branch": "1.5"
   },
   "dot": {
@@ -98,7 +98,7 @@
   },
   "sun": {
     "sha": "a921c88a84b5389c494b2829909fddb3f4af049e",
-    "branch": "circuit-construction-kit-dc-virtual-lab-1.5"
+    "branch": "HEAD"
   },
   "tambo": {
     "sha": "804a218d738b74b87d20b93c2e0babb49aa26045",
